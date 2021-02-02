@@ -9,10 +9,10 @@ This is a dataset analysis project based on India pollution historical data. Thi
 Use the package 
 
 ```bash
-+* Pandas
-+* Numpy
-+* SimpleImputer
-+* matplotlib.pyplot
+- Pandas
+- Numpy
+- SimpleImputer
+- matplotlib.pyplot
 ```
 
 ## Usage
@@ -30,5 +30,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact info for distributor
 Name: Mandy He
+
 Email: she3@lion.lmu.edu
 
